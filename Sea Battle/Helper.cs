@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Sea_Battle
 {
-    class GetUserData
+    class Helper
     {
     }
 }

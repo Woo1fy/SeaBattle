@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Sea_Battle
 {
-    class Constuctor
+    class Game
     {
+
     }
 }
