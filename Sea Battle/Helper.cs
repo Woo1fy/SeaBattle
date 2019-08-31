@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Sea_Battle
 {
-    class Helper
+    class Helper:Game
     {
+    
+
+
     }
 }
